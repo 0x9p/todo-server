@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+
+# misc
+.DS_Store
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage directory used by tools like jest
+coverage/
+
+# IntelliJ Idea
+.idea/
+*.iws
+*.iml
+*.ipr
